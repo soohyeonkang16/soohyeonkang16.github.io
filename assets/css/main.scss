@@ -23,3 +23,16 @@ search: false
 .author__urls-wrapper {
   font-size: 18px;
 }
+
+
+.greedy-nav {
+  justify-content: flex-start; /* was flex-end/space-between by default */
+
+  .site-title {
+    margin-right: 2em; /* space between your name and the first tab */
+  }
+
+  ul {
+    justify-content: flex-start;
+  }
+}
