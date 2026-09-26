@@ -35,12 +35,14 @@ div[id] {
 
 
 .greedy-nav {
+  display: flex;
+  justify-content: flex-start !important; /* was space-between by default */
+
   .site-title {
-    float: left;
+    margin-right: 2em;
   }
 
-  ul {
-    float: left !important;   /* default is float: right */
-    margin-left: 2em;
+  .visible-links {
+    justify-content: flex-start !important;
   }
 }
