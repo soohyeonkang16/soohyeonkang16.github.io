@@ -114,14 +114,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Soohyeon Kang"
   avatar           : "/assets/images/sk.jpg"
   bio              : ""
   # location         : "Illinois, USA"
   # email            : soohyeonkang16@gmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
+    - label: "sk92@illinois.edu"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:soohyeonkang16@gmail.com"
     - label: "Google Scholar"
