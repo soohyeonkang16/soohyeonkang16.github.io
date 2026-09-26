@@ -32,3 +32,15 @@ html {
 div[id] {
   scroll-margin-top: 60px; /* adjust to your masthead height */
 }
+
+
+.greedy-nav {
+  .site-title {
+    float: left;
+  }
+
+  ul {
+    float: left !important;   /* default is float: right */
+    margin-left: 2em;
+  }
+}
