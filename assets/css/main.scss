@@ -50,18 +50,18 @@ div[id] {
 
 
 .section-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 1em;
+  position: relative; /* anchor point for the absolutely positioned label */
 }
 
 .section-label-col {
+  position: absolute;
+  left: -440px;  /* pulls it left, into the sidebar's horizontal space — needs tuning, see below */
+  top: 0;
   width: 200px;
-  flex-shrink: 0;
 }
 
 .section-content-col {
-  flex: 1;
+  /* no longer needs flex/width rules — it just fills the content column normally */
 }
 
 .research-title {
