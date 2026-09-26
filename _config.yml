@@ -121,7 +121,7 @@ author:
   # email            : soohyeonkang16@gmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
+    - label: "soohyeonkang16@gmail.com"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:soohyeonkang16@email.com"
     - label: "Google Scholar"
