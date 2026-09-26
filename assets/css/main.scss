@@ -25,14 +25,10 @@ search: false
 }
 
 
-.greedy-nav {
-  justify-content: flex-start; /* was flex-end/space-between by default */
+html {
+  scroll-behavior: smooth;
+}
 
-  .site-title {
-    margin-right: 2em; /* space between your name and the first tab */
-  }
-
-  ul {
-    justify-content: flex-start;
-  }
+div[id] {
+  scroll-margin-top: 60px; /* adjust to your masthead height */
 }
