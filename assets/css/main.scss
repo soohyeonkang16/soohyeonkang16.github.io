@@ -24,8 +24,10 @@ search: false
   font-size: 18px;
 }
 
-.author__sidebar {
-  position: static;
+.author__sidebar,
+.sidebar {
+  position: static !important;
+  top: auto !important;
 }
 
 
