@@ -50,14 +50,15 @@ div[id] {
 
 
 .section-row {
-  position: relative; /* anchor point for the absolutely positioned label */
+  position: relative;
 }
 
 .section-label-col {
   position: absolute;
-  left: -440px;  /* pulls it left, into the sidebar's horizontal space — needs tuning, see below */
+  right: 100%;
   top: 0;
   width: 200px;
+  margin-right: 40px;
 }
 
 .section-content-col {
