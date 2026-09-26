@@ -118,14 +118,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   # location         : "Somewhere"
-  email            : soohyeonkang16@gmail.com
+  # email            : soohyeonkang16@gmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:soohyeonkang16@email.com"
     - label: "Google Scholar"
-      icon: "ai ai-google-shcolar"
+      icon: "ai ai-google-schcolar"
       url: "https://scholar.google.com/citations?user=9KhXMBEAAAAJ&hl=ko&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
