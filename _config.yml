@@ -125,7 +125,7 @@ author:
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:soohyeonkang16@email.com"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9KhXMBEAAAAJ&hl=ko&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
