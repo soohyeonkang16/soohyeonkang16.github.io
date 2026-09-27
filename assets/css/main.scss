@@ -94,3 +94,17 @@ div[id] {
   color: #333;
   margin-bottom: 10px;
 }
+
+.research-image {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+  align-items: center;
+}
+
+.research-image img {
+  width: 50%;
+  height: auto;
+}
+
+
