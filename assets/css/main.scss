@@ -64,12 +64,18 @@ div[id] {
   margin-top: 100px;
 }
 
+// .section-label-col {
+//   position: absolute;
+//   right: 100%;
+//   top: 0;
+//   width: 200px;
+//   margin-right: 40px;
+// }
+
 .section-label-col {
-  position: absolute;
-  right: 100%;
-  top: 0;
-  width: 200px;
-  margin-right: 40px;
+  position: static;
+  width: auto;
+  margin: 0;
 }
 
 .section-content-col {
